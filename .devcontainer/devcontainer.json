@@ -1,0 +1,6 @@
+{
+  "image": "ghcr.io/bartventer/arch-devcontainer-features/gcloud-cli:1",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/terraform-asdf:2": {}
+  }
+}
